@@ -12,10 +12,6 @@ Usage:
 For all options, see
   `chm2pdf --help`
 
-RECOMMENDED READING:
- - http://www.karakas-online.de/forum/viewtopic.php?t=10275
- - http://www.karakas-online.de/forum/viewtopic.php?t=10969
-
 Installation:
  - download the .tar.gz
  - unzip it: "tar -xzvf chm2pdf-a.b.c.tar.gz"
